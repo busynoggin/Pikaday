@@ -1065,7 +1065,7 @@
 
             if (opts.bound) {
                 // let the screen reader user know to use arrow keys
-                opts.field.setAttribute('aria-label', opts.ariaLabel);
+                // opts.field.setAttribute('aria-label', opts.ariaLabel);
             }
         },
 
